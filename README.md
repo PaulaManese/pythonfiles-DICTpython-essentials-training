@@ -10,6 +10,7 @@ Python Files, PDF Notes and Examples
 
 ```
 All my activities during the lesson and exam copy
+-also some other python files
 ```
 
 ## Contributing
